@@ -14,11 +14,11 @@
 2. 개발 환경과 ERD 환경
 
 3. 역할 분담  <br/>
-   *서민식 - index 페이지, 관리자 페이지   <br/>
-   *조민근 - 팀장 , ERD ,   <br/>
-   *정시윤 - 게시판 CRUD   <br/>
-   *박경찬 - 상품 CRUD ,   <br/>
-   *왕영조 - 회원 CRUD , ChatBot  <br/>
+   * 서민식 - index 페이지, 관리자 페이지   <br/>
+   * 조민근 - 팀장 , ERD ,   <br/>
+   * 정시윤 - 게시판 CRUD   <br/>
+   * 박경찬 - 상품 CRUD ,   <br/>
+   * 왕영조 - 회원 CRUD , ChatBot  <br/>
 
 4. 개발 기간 및 작업 관리
 

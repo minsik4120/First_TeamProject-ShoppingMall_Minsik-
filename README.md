@@ -18,6 +18,9 @@
    정시윤 - 게시판 CRUD 
    박경찬 - 상품 CRUD , 
    왕영조 - 회원 CRUD , ChatBot
+
+4. 개발 기간 및 작업 관리
+
 5. 
 ## final
 <details>
@@ -299,7 +302,7 @@ Hibernate:
 ![img_1.png](img_1.png)
 
 ![img.png](img.png)
-![개발환경](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/41654bc8-58f3-4ad2-9cb6-1e3c73ffa25e)
+
 
 </details>
 

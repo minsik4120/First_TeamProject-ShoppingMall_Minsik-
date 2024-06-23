@@ -29,7 +29,7 @@
 
 
 ### 4. 담당 파트 index , 관리자 페이지  <br/>
-   (1) index 페이지 
+   (1) index 페이지   <br/>
     * 검색, 서치 기능  <br/>
     * AutoGallery   <br/>
    

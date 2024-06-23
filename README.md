@@ -1,4 +1,24 @@
 # team_project_1
+
+관광 상품 쇼핑몰 사이트 
+
+프로젝트 소개 
+
+팀원 구성
+
+
+
+1. 개발 환경
+
+2. 개발 환경과 ERD 환경
+
+3. 역할 분담
+   서민식 - index 페이지, 관리자 페이지 
+   조민근 - 팀장 , ERD , 
+   정시윤 - 게시판 CRUD 
+   박경찬 - 상품 CRUD , 
+   왕영조 - 회원 CRUD , ChatBot
+5. 
 ## final
 <details>
 <summary>SQL</summary>

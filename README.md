@@ -48,7 +48,7 @@
 
 ## 3. 개발 기간 및 작업 관리
 ![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/e7936983-8303-4d5b-8807-97ab70ffb627)
-![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/ce3621fc-fd76-45d2-888c-90518807cd6a)
+
 
 
 

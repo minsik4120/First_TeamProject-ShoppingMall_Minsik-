@@ -19,6 +19,8 @@
 
 
 ## 1. 개발 환경과 ERD 환경 (개발환경,DB)
+![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/b6abc7a1-e013-417d-bc7b-11eb1e62d9d7)
+
 
 ![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/b1727e51-ed00-41c9-8976-a0f23011bee7)
 ![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/b2a094d0-abb5-4d50-bff3-ca2875b38f29)
@@ -39,6 +41,7 @@
 
 
 ## 3. 개발 기간 및 작업 관리
+![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/e7936983-8303-4d5b-8807-97ab70ffb627)
 
 
 

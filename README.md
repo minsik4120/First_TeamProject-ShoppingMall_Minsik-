@@ -59,7 +59,14 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/f9ae580b-d14b-4165-b790-13a834e15302" alt="이미지 설명" width="400" height="400"/>
-  <img src="https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/1097da67-7ae5-4d05-95be-9fb42ff2e675" alt="이미지 설명" width="400" height="400"/>
+ 
+
+https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/b39a0df3-1634-45c1-b96b-0cfc11446c2b
+
+
+[동영상 시연](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/b39a0df3-1634-45c1-b96b-0cfc11446c2b)
+
+
 </div>
 
 

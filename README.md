@@ -58,7 +58,7 @@
   ### (1) index 페이지   <br/>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/f9ae580b-d14b-4165-b790-13a834e15302" alt="이미지 설명" width="100%" height="400"/>
+  <img src="https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/f9ae580b-d14b-4165-b790-13a834e15302" alt="이미지 설명" width="100%" height="700"/>
  
 
 

@@ -64,7 +64,7 @@
 
 
 
-[동영상 시연](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/b39a0df3-1634-45c1-b96b-0cfc11446c2b)
+[아아](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/b39a0df3-1634-45c1-b96b-0cfc11446c2b)
 
 
 </div>

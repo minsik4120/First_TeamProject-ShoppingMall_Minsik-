@@ -52,7 +52,9 @@
 
   ### (1) index 페이지   <br/>
 
- <img src="https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/f9ae580b-d14b-4165-b790-13a834e15302" alt="이미지 설명" width="400" hight="400"/>
+ <img src="https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/f9ae580b-d14b-4165-b790-13a834e15302" alt="이미지 설명" width="400" hight="400"/> 
+ ![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/2980616f-c501-4bfc-a403-592cde37e77e)
+
 
   * ####  검색, 서치 기능  <br/>
   * ####  AutoGallery   <br/>

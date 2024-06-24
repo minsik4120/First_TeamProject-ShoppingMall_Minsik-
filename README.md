@@ -73,7 +73,15 @@
 
   * ####  검색, 서치 기능  <br/>
 
-  ![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/e99fc96b-90d8-45d1-9805-a8a1b4975c2a)
+
+https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/7ddb4811-1912-417f-82e4-fd5215fe1776
+
+
+
+https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/53ba81e5-b4e4-47b5-b381-5c5183d27e0b
+
+
+
 
   * ####  AutoGallery   <br/>
    
@@ -81,6 +89,32 @@
    
   
    
+
+https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/d8e73a15-e56e-4371-81a3-faa21d7ff3e7
+
+
+
+
+
+
+
+  ### (3) 네이버 API 
+
+(1) 사원 등록 
+https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/ac06bfe2-1cac-4dd2-bd57-cd9b596d9d3e
+
+
+
+(2) 결재 문서
+https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/37a6c72d-9488-4fb6-9cbc-688f3652ba92
+
+
+
+
+
+(3) 드라이버
+https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/909e395c-a88a-406a-bea9-5162364c0041
+
 
 
 

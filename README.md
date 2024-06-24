@@ -5,7 +5,7 @@
 
 ## 🔥 프로젝트 소개 
 
-<img src="https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/c34d08fb-aa68-40cd-be5f-58a276115409" alt="이미지 설명" style="height: 300px; width: auto;"/>
+<img src="https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/c34d08fb-aa68-40cd-be5f-58a276115409" alt="이미지 설명" style="height: 300px; width: 100%;"/>
 저희 팀이 관광 여행 상품을 주제로 선정한 이유는 지친 일상을 조금이나마 힐링 할 수 있고
 좋은 관광 상품을 개발하여 국내외 관광객들에게 더욱 매력적인 여행 경험을 제공하고자 했습니다 그리고 또한 
 

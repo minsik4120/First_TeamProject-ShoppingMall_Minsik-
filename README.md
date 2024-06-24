@@ -1,7 +1,7 @@
 
  # 🌍 관광 상품 쇼핑몰 사이트 (이팀저팀)
 
-## 프로젝트 소개 
+## 🔥 :fire: 프로젝트 소개 
 
 ![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/c34d08fb-aa68-40cd-be5f-58a276115409)  <br/>
 저희 팀이 관광 여행 상품을 주제로 선정한 이유는 지친 일상을 조금이나마 힐링 할 수 있고

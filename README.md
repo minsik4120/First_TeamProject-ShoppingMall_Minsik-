@@ -8,6 +8,7 @@
 ## 1. 개발 환경과 ERD 환경 (개발환경,DB)
 
 ![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/b1727e51-ed00-41c9-8976-a0f23011bee7)
+![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/b2a094d0-abb5-4d50-bff3-ca2875b38f29)
 
 
 

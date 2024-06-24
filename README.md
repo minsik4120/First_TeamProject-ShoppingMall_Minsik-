@@ -107,7 +107,7 @@ https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/1548
 
   ### (3) 네이버 API 
 
-(1) 사원 등록 
+
 https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/ac06bfe2-1cac-4dd2-bd57-cd9b596d9d3e
 
 

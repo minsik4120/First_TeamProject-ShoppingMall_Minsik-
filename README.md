@@ -6,6 +6,8 @@
 ## 🔥 프로젝트 소개 
 
 <img src="https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/c34d08fb-aa68-40cd-be5f-58a276115409" alt="이미지 설명" style="height: 500px; width: 100%;"/>
+
+
 이팀 저팀이 여행 상품을 주제로 선정한 이유 </br>
 
 

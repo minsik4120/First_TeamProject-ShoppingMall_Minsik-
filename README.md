@@ -71,11 +71,10 @@
 
 
 
-
-
-
-
   * ####  검색, 서치 기능  <br/>
+
+  ![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/e99fc96b-90d8-45d1-9805-a8a1b4975c2a)
+
   * ####  AutoGallery   <br/>
    
   ### (2) 관리자 페이지 

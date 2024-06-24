@@ -113,13 +113,13 @@ https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/1548
 
   ### (3) 네이버 API 
 
-(1) 조직 배치(사원 등록 ) </br>
+1️⃣ 조직 배치(사원 등록 ) </br>
 
 https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/ac06bfe2-1cac-4dd2-bd57-cd9b596d9d3e
 
 
 
-(2) 결재 문서 </br>
+2️⃣ 결재 문서 </br>
 
 https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/37a6c72d-9488-4fb6-9cbc-688f3652ba92
 
@@ -127,7 +127,7 @@ https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/1548
 
 
 
-(3) 드라이버 </br>
+3️⃣ 드라이버 </br>
 
 https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/909e395c-a88a-406a-bea9-5162364c0041
 

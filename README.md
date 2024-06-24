@@ -1,6 +1,7 @@
 
- # 🌍 관광 상품 쇼핑몰 사이트 (이팀저팀) <span style="color:blue"> 이팀저팀 </span>
+ # 🌍 관광 상품 쇼핑몰 사이트 (이팀저팀)
 
+<span style="color:blue"> blue </span>
 ## 🔥 프로젝트 소개 
 
 ![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/c34d08fb-aa68-40cd-be5f-58a276115409)  <br/>

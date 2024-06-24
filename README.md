@@ -62,6 +62,11 @@
 
 
 
+https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/da687bca-32b3-4d3f-ae77-284d6692c200
+
+
+
+
   * ####  검색, 서치 기능  <br/>
   * ####  AutoGallery   <br/>
    

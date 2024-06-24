@@ -1,7 +1,8 @@
 
  # 🌍 관광 상품 쇼핑몰 사이트 (이팀저팀)
 
-<span style="color:blue"> blue </span>
+ <p>$\bf{\large{\color{#6580DD}두꺼운\ 글씨체,\ 큰글씨,\ 파란색}}$</p>
+
 ## 🔥 프로젝트 소개 
 
 ![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/c34d08fb-aa68-40cd-be5f-58a276115409)  <br/>

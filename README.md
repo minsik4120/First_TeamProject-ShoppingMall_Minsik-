@@ -71,13 +71,13 @@
 
 
 
-  * ####  검색, 서치 기능  <br/>
+  * ####  검색 기능 
 
 
 https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/7ddb4811-1912-417f-82e4-fd5215fe1776
 
 
-
+  * ####  서치 기능  
 https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/53ba81e5-b4e4-47b5-b381-5c5183d27e0b
 
 
